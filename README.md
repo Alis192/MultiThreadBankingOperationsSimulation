@@ -41,6 +41,3 @@ The application uses `lock` statements to manage access to shared resources, ens
 ### Exception Handling
 Custom exceptions like `InsufficientBalanceException` are used to handle specific error scenarios gracefully.
 
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
-
